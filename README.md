@@ -12,7 +12,9 @@ A modern Android weather application built with Kotlin that provides real-time w
 
 ## Quick Start
 
-[![Open in Android Studio](https://img.shields.io/badge/Open%20in-Android%20Studio-green?style=for-the-badge&logo=android-studio)](android-studio://open?git=https://github.com/vkk28/Weather_App.git)
+[![Open in Android Studio](https://img.shields.io/badge/Open%20in-Android%20Studio-green?style=for-the-badge&logo=android-studio)](https://github.com/vkk28/Weather_App.git)
+
+**Open in Android Studio:** [Click here to open in Android Studio](android-studio://open?git=https://github.com/vkk28/Weather_App.git)
 
 1. Clone the repository:
 ```bash
